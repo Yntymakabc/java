@@ -99,8 +99,7 @@ class Main {
         university.addStudent(s2);
 
         university.updateStudent(2,"Aibek", 20 );
-        university.displayAllStudents();
         System.out.println(university.searchStudent(2));
-
+        System.out.println("hello");
     }
 }
